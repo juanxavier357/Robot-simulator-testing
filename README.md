@@ -29,8 +29,10 @@ Puedes encontrar un repositorio guía aquí: https://github.com/makeitrealcamp/r
 **Screenshot**
 
   ![Robot simulator testing](https://github.com/juanxavier357/Robot-simulator-testing/blob/main/Captura.JPG)
-
   
+  ![image](https://github.com/juanxavier357/Robot-simulator-testing/blob/main/Coverage.JPG)
+
+
 ## My process
 
 **Built with**
